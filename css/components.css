@@ -1,0 +1,10 @@
+/* Estilos de Botones Personalizados */
+.section__btn {
+  padding: 10px 20px;
+  font-size: 18px;
+}
+
+/* Estilos para las Tarjetas */
+.card {
+  margin-bottom: 30px;
+}

@@ -1,0 +1,19 @@
+/* Estilos del Header */
+.header {
+  padding: 20px 0;
+}
+
+.header__nav-item {
+  margin-left: 10px;
+}
+
+.section--hero {
+  background: url("../images/hero.jpg") no-repeat center center/cover;
+  color: white;
+  padding: 100px 0;
+}
+
+/* Footer */
+.footer {
+  padding: 20px 0;
+}
