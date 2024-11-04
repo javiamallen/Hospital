@@ -1,3 +1,5 @@
+![Logo](images/logo.jpeg)
+
 # Landing Page Modular con Bootstrap
 
 Este es un proyecto de **landing page modular** desarrollado utilizando **Bootstrap** para la creación de un diseño responsivo y limpio. El proyecto se organiza aplicando **buenas prácticas de modularización de estilos**, lo que asegura que los archivos CSS sean escalables y fáciles de mantener. Además, se utiliza la **metodología BEM** para nombrar y organizar las clases CSS de manera estructurada y coherente.
