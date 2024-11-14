@@ -8,8 +8,8 @@
 }
 
 .section--hero {
-  background: url("../images/hero.jpg") no-repeat center center/cover;
-  color: white;
+  background: url("../images/pediatra.jpg") no-repeat center center/cover;
+  color: blueviolet;
   padding: 100px 0;
 }
 
